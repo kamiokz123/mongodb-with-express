@@ -1,0 +1,25 @@
+.chat{
+    background-color: rgba(144, 144, 196, 0.466);
+    padding: 8px;
+    border-radius: 10px;
+}
+
+body{
+    padding: 20px;
+}
+
+h3{
+    text-align: center;
+}
+
+.chat-holder{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.msg{
+    background-color: rgb(52, 52, 214);
+    padding: 4px;
+    border-radius: 10px;
+    color: white;
+}
